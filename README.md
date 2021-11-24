@@ -2,8 +2,13 @@
 
 ## I'm Gustavo Inácio
 
-- 🔭 I’m a Front-end developer from Brazil 🇧🇷 ...
-- 👨🏽‍💻  I’m currently learning ReactJs and NextJs ...
-- 📚 I’m studying on TRYBE, a school of software development ...
-- 🤔 I’m looking for an oportunnity to start on job market ...
-- 📫 Do you need my services ? contact me on gus.inacio@hotmail.com : null ...
+# 🌠 Quick Facts
+
+- 🔭 I’m a Front-end developer (ReactJs) from Brazil 🇧🇷.
+- 👨🏽‍💻 I’m currently learning ReactJs and NextJs.
+- 📚 I’m studying at TRYBE, a school of software development.
+-	🎼 I love music. I'm eclectic, but samba and pagode are my favorite genders. 
+- 📫 Do you need my services ? contact me on gus.inacio@hotmail.com : null.
+
+# 🧰  Languages and Tools
+
