@@ -8,7 +8,7 @@
 - 👨🏽‍💻 I’m currently learning NextJs and NodeJs.
 - 📚 I’m studying at TRYBE, a school of software development.
 -	🎼 I love music. I'm eclectic, but samba and pagode are my favorite genders. 
-- 📫 Do you need my services ? contact me on gus.inacio@hotmail.com : null.
+- 📫 Do you need my services ? contact me on gus.inacio@hotmail.com
 
 # 🧰 Toolkit:
 <img src="https://camo.githubusercontent.com/137a7a0f28f9e326bcc81a5a0bd853c86435143774c15642d827a5788e778667/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374" /> 
