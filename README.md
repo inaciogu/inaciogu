@@ -4,8 +4,8 @@
 
 # 🌠 Quick Facts:
 
-- 🔭 I’m a Front-end developer (ReactJs) from Brazil 🇧🇷.
-- 👨🏽‍💻 I’m currently learning NextJs and NodeJs.
+- 🔭 I’m a Front-end developer (React.js) at PipeTech.
+- 👨🏽‍💻 I’m currently learning Node.js, OOP and Express.js
 - 📚 I’m studying at TRYBE, a school of software development.
 -	🎼 I love music. I'm eclectic, but samba and pagode are my favorite genders. 
 - 📫 Do you need my services ? contact me on gus.inacio@hotmail.com
