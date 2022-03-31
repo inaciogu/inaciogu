@@ -1,29 +1,39 @@
-# Welcome! 👋 
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gustavo Inácio</h1>
 
-## I'm Gustavo Inácio
+# 🌠 About Me:
 
-# 🌠 Quick Facts:
+<h4>I'm a web developer from Brazil and I started my programming journey in June 2021 through the Trybe course, and quickly fell in love with the technology area. Currenctly working with Front end at PipeTech. I am highly communicative and dedicated, and I really enjoy learning new things. In parallel with my work, I study backend with focus on node.js and express also through the Trybe that I will finish in June of this year.
+</h4>
 
-- 🔭 I’m a Front-end developer (React.js) at PipeTech.
-- 👨🏽‍💻 I’m currently learning Node.js, OOP and Express.js
-- 📚 I’m studying at TRYBE, a school of software development.
--	🎼 I love music. I'm eclectic, but samba and pagode are my favorite genders. 
-- 📫 Do you need my services ? contact me on gus.inacio@hotmail.com
+## ⚙️ &nbsp;GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/inaciogu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=inaciogu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inaciogu&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 # 🧰 Toolkit:
-<img src="https://camo.githubusercontent.com/137a7a0f28f9e326bcc81a5a0bd853c86435143774c15642d827a5788e778667/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374" /> 
-<img src="https://camo.githubusercontent.com/d19e6107edf721249f78c18716c0834a60e5398d8ba90dd91c66ce990ab805dd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656475782d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d5265647578" /> 
-<img src="https://camo.githubusercontent.com/cf1a0ef083a2372d7f66b4691d5d25bfd8c098f42871e8da90edb1f32ed187c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074" /> 
-
-<img src="https://camo.githubusercontent.com/edd3031a0956c904634f9a394267a6ba61e9a0bb95c9512a1fbc0725b4014d03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974" /> 
-
-<img src="https://camo.githubusercontent.com/83b1bc08ef341c39ed71a678068b7e5f95bac0391e75595439049a8080bc0c68/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" /> 
-
-<img src="https://camo.githubusercontent.com/735a0035e9a903865aa03b29414eb639fb4ae0e57a3839cc66815837c9a545bd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d63737333" /> 
-<img src="https://camo.githubusercontent.com/5b2f786a1d4e02824ccf44f44029daff5e623d405cb533bd0a44a3f19505a09f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6174657269616c5f55492d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6d6174657269616c2d7569" />
-
-<img src="https://camo.githubusercontent.com/61247789f679ccc56aaeb938a1ad0f136d25423df6940e468ab10816c1b23cc4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974687562" />
-
-<img src="https://camo.githubusercontent.com/8446db4d1f8b9b94a514f9377df61e000f68040d404d6bbf9ecd7c72bd263184/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6578742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4e6578742e6a73" />
-
-
+  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-08122A?style=for-the-badge&logo=javascript&color=black)&nbsp;
+  ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=for-the-badge&logo=typescript&color=black)&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js&color=black)&nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5&color=black)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6&color=black)&nbsp;
+  ![MaterialUI](https://img.shields.io/badge/-MaterialUI-05122A?style=for-the-badge&logo=mui&logoColor=1572B6&color=black)&nbsp;
+  ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react&color=black)&nbsp;
+  ![Next](https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&logo=next.js&color=black)&nbsp;
+  ![Next](https://img.shields.io/badge/-Redux-05122A?style=for-the-badge&logo=Redux&color=black)&nbsp;
+  ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&color=black)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github&color=black)&nbsp;
+  ![MySql](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=MySQL&color=black)&nbsp;
+  
+  # 
+  <div> 
+  <a href="https://instagram.com/inaciiogu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gus.inacio@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/inaciogu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/inaciogu/inaciogu/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
