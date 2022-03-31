@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inaciogu&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-# 🧰 Toolkit:
+## 🧰 Toolkit:
   
   ![JavaScript](https://img.shields.io/badge/-JavaScript-08122A?style=for-the-badge&logo=javascript&color=black)&nbsp;
   ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=for-the-badge&logo=typescript&color=black)&nbsp;
@@ -29,7 +29,7 @@
   ![MySql](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=MySQL&color=black)&nbsp;
   ![Sequelize](https://img.shields.io/badge/-Sequelize-05122A?style=for-the-badge&logo=sequelize&color=black)&nbsp;
   
-  # 
+  ## 🔗 Social Links
   <div> 
   <a href="https://instagram.com/inaciiogu" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
