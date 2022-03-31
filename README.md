@@ -27,6 +27,7 @@
   ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&color=black)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github&color=black)&nbsp;
   ![MySql](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=MySQL&color=black)&nbsp;
+  ![Sequelize](https://img.shields.io/badge/-Sequelize-05122A?style=for-the-badge&logo=sequelize&color=black)&nbsp;
   
   # 
   <div> 
