@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gustavo Inácio</h1>
 
-# 🌠 About Me:
+# 🌠 About Me
 
 <h4>I'm a web developer from Brazil and I started my programming journey in June 2021 through the Trybe course, and quickly fell in love with the technology area. Currenctly working with Front end at PipeTech. I am highly communicative and dedicated, and I really enjoy learning new things. In parallel with my work, I study backend with focus on node.js and express also through the Trybe that I will finish in June of this year.
 </h4>
