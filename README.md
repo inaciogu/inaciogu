@@ -2,7 +2,7 @@
 
 # 🌠 About Me
 
-<h4>I'm a web developer from Brazil and I started my programming journey in June 2021 through the Trybe course, and quickly fell in love with the technology area. I am highly communicative and dedicated, and I really enjoy learning new things. I have experience working with frontend, using react and typescript, along with ui material. I study backend with focus on node.js and express also through the Trybe that I will finish in June of this year.
+<h4>I'm a web developer from Brazil and I started my programming journey in June 2021 through the Trybe course, and quickly fell in love with the technology area. I am highly communicative, dedicated, and I really enjoy learning new things. I have experience working with frontend, using react and typescript, along with material ui. I study backend with focus on node.js and express also through the Trybe that I will finish in July of this year.
 </h4>
 
 ## ⚙️ &nbsp;GitHub Analytics
