@@ -1,9 +1,9 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px" width="30px">, I'm Gustavo Inácio</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px" width="30px"> Welcome to my Github</h1>
 
 # 🌠 About Me
 
-<h4>I'm a web developer from Brazil and I started my programming journey in June 2021 through the Trybe course, and quickly fell in love with the technology area. I am highly communicative, dedicated, and I really enjoy learning new things. I have experience working with frontend, using react and typescript, along with material ui. I study backend with focus on node.js and express also through the Trybe that I will finish in July of this year.
-</h4>
+<p>I'm a <strong>Software Developer</strong> from Brazil and I started my programming journey in June 2021 through the @Trybe course, and quickly fell in love with the technology area. I am highly communicative, dedicated, and I really enjoy learning new things. I have experience working with <strong>Frontend</strong>, using <em>React.js</em> and <em>Typescript</em>, along with <em>Material UI</em>. And with <strong>Backend</strong>, using <em>Node.js</em>, <em>Express.js</em> and relational and non-relational databases.
+</p>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
