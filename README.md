@@ -1,9 +1,8 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px" width="30px"> Welcome to my Github</h1>
+<h1 align="left">Hello, Welcome to my Github</h1>
 
 # 🌠 About Me
 
-<p>I'm a <strong>Software Developer</strong> from Brazil and I started my programming journey in June 2021 through the @Trybe course, and quickly fell in love with the technology area. I am highly communicative, dedicated, and I really enjoy learning new things. I have experience working with <strong>Frontend</strong>, using <em>React.js</em> and <em>Typescript</em>, along with <em>Material UI</em>. And with <strong>Backend</strong>, using <em>Node.js</em>, <em>Express.js</em> and relational and non-relational databases.
-</p>
+<p>I'm a <strong>Software Developer</strong> from Brazil. I currently work at @coaktion as <strong>full stack software developer</strong>, building solutions with <strong>React.js, Node.js, typescript and cloud computing such as AWS.</strong></p>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -50,8 +49,4 @@
   <a href="https://portfolio-next-js-inaciogu.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-233333?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" />
   </a> 
-  
- 
-  ![Snake animation](https://github.com/inaciogu/inaciogu/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
