@@ -2,7 +2,7 @@
 
 # 🌠 About Me
 
-<p>I'm a <strong>Software Developer</strong> from Brazil. I currently work at @mercadolivre as <strong>full stack software developer</strong>.
+<p>I'm a <strong>Software Developer</strong> from Brazil. I currently work at @Mercadolibre as <strong>full stack software developer</strong>.
 
 ## ⚙️ &nbsp;GitHub Analytics
 
