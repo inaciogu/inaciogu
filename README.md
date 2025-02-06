@@ -2,7 +2,7 @@
 
 # 🌠 About Me
 
-<p>I'm a <strong>Software Developer</strong> from Brazil. I currently work at @coaktion as <strong>full stack software developer</strong>, building solutions with <strong>React.js, Node.js, typescript and cloud computing such as AWS.</strong></p>
+<p>I'm a <strong>Software Developer</strong> from Brazil. I currently work at @mercadolivre as <strong>full stack software developer</strong>.
 
 ## ⚙️ &nbsp;GitHub Analytics
 
