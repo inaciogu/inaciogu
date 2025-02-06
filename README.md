@@ -30,23 +30,11 @@
   
   ## 🔗 Social Links
   <div> 
-  <a href="https://instagram.com/inaciiogu" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-  </a>
-    
   <a href = "mailto:gus.inacio@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
     
   <a href="https://www.linkedin.com/in/inaciogu" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a> 
-    
-  <a href="https://web.whatsapp.com/send?l=en&phone=+55 48996887736" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
-  </a>
-    
-  <a href="https://portfolio-next-js-inaciogu.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-233333?style=for-the-badge&logo=vercel&logoColor=white" target="_blank" />
-  </a> 
+  </a>  
 </div>
